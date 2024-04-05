@@ -10,7 +10,7 @@ e = campaignTrail_temp;
 
             $(".container")[0].style.backgroundColor = "#7382b4";
 
-            document.getElementById("header").src = "https://cdn.discordapp.com/attachments/1188952051561013328/1189058734983483472/15FB10EB-1D9D-480E-9D3B-562749D157CD.png?ex=65e69c3e&is=65d4273e&hm=d06ad8db5d8a87608b1fd3121ca946f761d418f1958dfabde99ea49e69ad51d5&";
+            document.getElementById("header").src = "https://i.imgur.com/C43vutO.jpeg";
 
             document.body.background = "https://upload.wikimedia.org/wikipedia/commons/b/b5/Troops_from_51st_Highland_Division_unloading_stores_from_tank_landing_craft_on_the_opening_day_of_the_Allied_invasion_of_Sicily%2C_10_July_1943._A17916.jpg";
 
